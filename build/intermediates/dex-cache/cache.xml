@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio 3.0.app/Contents/gradle/m2repository/com/google/code/findbugs/jsr305/1.3.9/jsr305-1.3.9.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/54/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/3e8ff6f869b347e63b2d420041becc70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fe6c8fbfeeb1454c3eb605c9b66662991681fd55">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/25/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.5.0/86950b32ea96cceece316b829cbe47b735892551/disklrucache-4.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="86950b32ea96cceece316b829cbe47b735892551">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-12.0.0.aar/46c91821baa0b6cbf231ad4eb35cfd88/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4bc823622bec54d6d48ac40d85089b4213b3b280">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/967c078cae0a5a122646f6b04bafda9f/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9068775bb0941e0fc1d4ff9adbf5d73475794955">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/e2fda3d6f34f1c101054207e3f6b8523/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c66801c7ac6def4ffef7859925b12ce7940438e">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.23.0/8e86c84ff3c98eca6423e97780325b299133d858/google-http-client-1.23.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8e86c84ff3c98eca6423e97780325b299133d858">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/easypermissions-0.3.0.aar/b66e8415b95cfd987ef6193558621869/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="93b7d6ba3bb340e935bf7a36408eb3455264b759">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/leanback-v17-27.1.0.aar/5ae46fd0693f4742a6dd8123e8ad3eb8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="083f1eb49346ab0666789678fc771827b0e85e86">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.23.0/b95521559faf49989ff036a5b15fd16476bdc955/google-api-client-android-1.23.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b95521559faf49989ff036a5b15fd16476bdc955">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/16/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.23.0/e57ea1e2220bda5a2bd24ff17860212861f3c5cf/google-oauth-client-1.23.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e57ea1e2220bda5a2bd24ff17860212861f3c5cf">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.0.aar/399afb839802a83bf77756f744871543/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b669797c26467f53a8fce750f74f2853c7fb5939">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/glide-4.5.0.aar/3f4e6168b1dc77237f92b238447470c6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0e9d2e5cf14f7d154c95672b3d37a845f09d57">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/preference-leanback-v17-27.1.0.aar/9095c2fb114784640c25f8086a8f7ae6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="085373b1f188c9e7c6edf06a03f880265dc94539">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.23.0/fd6761f4046a8cb0455e6fa5f58e12b061e9826e/google-http-client-jackson2-1.23.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fd6761f4046a8cb0455e6fa5f58e12b061e9826e">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/5b4c53660bf76d2c8d65656c00838e70/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/05ae67a4101a2bf32d5e47af4f16f04e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="755c70a5a4e439030f67311dbafaa67b111377a6">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/394f9e2339ec7be211a1dbf6aa1450c3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="705378853cb9f264315d7a0a8edb6743d72efe9b">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.0/edf3f7bfb84a7521d0599efa3b0113a0ee90f85/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0edf3f7bfb84a7521d0599efa3b0113a0ee90f85">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-youtube/v3-rev193-1.23.0/bbf2866752e4e38f6d31052fcb15ef3669914b7a/google-api-services-youtube-v3-rev193-1.23.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bbf2866752e4e38f6d31052fcb15ef3669914b7a">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0046d63a1a71814da8c0c81f17d41f96/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1fd3ceac7f415975323d52c6c6057db409a907f6">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/play-services-auth-12.0.0.aar/a8f376462899fb11f547510c72c4dc9e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e5268d03a933f605d829bee53803d1b1b8a3b90">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ce502e70b43c5c634bf0e53510223ff4/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2bbe48deed35056023eed2cdc0cc92e5c7d3617">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/45/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.30/2dfac33f8b4e92c9dd1422cd286834701a6f6d6/kotlin-stdlib-1.2.30.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02dfac33f8b4e92c9dd1422cd286834701a6f6d6">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/1a7064f5f2a4648bd61ba8c053cdc2ce/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="668473027f40fa0cdd5b2db78ba02d676ffd3a2b">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.0.aar/c5ef3b0bf026df8b4d657529fdb23116/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="acaecf3acc212bf268723a6c6c0a4a97749b6842">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/23/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/f768672d50778f2c838480635b348597/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d46095629eedbd5b79b4d129428fc499473a73b">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/a05b449340cd8ee576d11fd06521f14d/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="858c1e21a2570a2416153aecab70d27a11965e79">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/17.0/463f8378feba44df7ba7cd9272d01837dad62b36/guava-jdk5-17.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="463f8378feba44df7ba7cd9272d01837dad62b36">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.5.0/5c16a9f3c9e4c9b6dbea50374264ef26fb937423/annotations-4.5.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c16a9f3c9e4c9b6dbea50374264ef26fb937423">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-12.0.0.aar/b63f584a5e6febbe67026db09f28da26/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4d5ab754f0b268f34d4ce3d7e5d1bc072ce7d925">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/20/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/d0e4370a0d6a393958a0b67af56b24c7/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f209b73a488f358673f39317df394bd7a99c05e">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.23.0/522ea860eb48dee71dfe2c61a1fd09663539f556/google-api-client-1.23.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="522ea860eb48dee71dfe2c61a1fd09663539f556">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/9d01671d8cbd2c250df8cfe28c3cc4ff/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a9fd7c97f1d13f97f3b52f9d2e54cd857d5acf9">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.0.aar/dd63964a22c846119fcc5728404854d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd562bcec73552c688a65cb47bc1cc582aadd38d">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.0/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="39ded76b5e1ce1c5b2688e1d25cdc20ecee32007">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/645398b54af5db2a7e24e18473ba93aa/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a2ea9818b2f556b6663c0e7376bd664ee6c7550">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.5.0.aar/5b87946992887a92693cdb32453bea0c/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6b659b5a5850e1bfd6d81393d35ca3b50297239">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.0/8007981f7d7540d89cd18471b8e5dcd2b4f99167/common-1.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8007981f7d7540d89cd18471b8e5dcd2b4f99167">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.2.30/b38fc19e670ebef931fef3ccdcb94eac2b65bb7d/kotlin-stdlib-jre7-1.2.30.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b38fc19e670ebef931fef3ccdcb94eac2b65bb7d">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.0.aar/799ea5547addd8dd3964dc91ba71b7d0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="801ee1436d056ff4bac3f70f5f1ae3aa571c0899">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.23.0/1bbe77a8594d7892571266392b8a7dd0a5980664/google-http-client-android-1.23.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1bbe77a8594d7892571266392b8a7dd0a5980664">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/recommendation-27.1.0.aar/be13088059ce783ebb881ffcb98fd4fb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d48f7e6f019482da8955d075103abf2d8f2359ed">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/f1b9710a721d4990e77feeacd06a32d2/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88a6a291986ced98700a44cdc3933559cc63e993">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/amin/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/54aac92c4e932d664a26224e6bc0e002/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71d380aeac037e63bab7bda2ba211777e16a2f42">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio 3.0.app/Contents/gradle/m2repository/org/jetbrains/annotations/13.0/annotations-13.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/amin/Desktop/kotlin/Myoutube/app/build/intermediates/transforms/preDex/release/39/classes.dex" />
+    </item>
+
+</items>
