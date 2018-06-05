@@ -12,7 +12,7 @@ import com.amin.myoutube.presenters.ImageCardViewPresenter
 
 class MainFragment : BrowseSupportFragment(){
 
-    public lateinit var mRowsAdapter: ArrayObjectAdapter
+    private lateinit var mRowsAdapter: ArrayObjectAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
