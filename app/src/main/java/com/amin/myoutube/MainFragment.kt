@@ -28,8 +28,8 @@ class MainFragment : BrowseSupportFragment(){
     fun setupMenuElements(result: List<Playlist>?){
         mRowsAdapter = ArrayObjectAdapter(ListRowPresenter())
 
-        if (result != null && result.isNotEmpty()) {
-            for(i in 0 until result.size){
+        result?.takeIf { it.isNotEmpty() }?.apply {
+            for(i in 0 until size){
                 val playlist = result[i]
                 val headerItem = HeaderItem(playlist.snippet.title)
                 headerItem.contentDescription = playlist.id
