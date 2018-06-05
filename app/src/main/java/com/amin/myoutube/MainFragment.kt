@@ -12,7 +12,7 @@ import com.amin.myoutube.presenters.ImageCardViewPresenter
 
 class MainFragment : BrowseSupportFragment(){
 
-    private lateinit var mRowsAdapter: ArrayObjectAdapter
+    public lateinit var mRowsAdapter: ArrayObjectAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -29,21 +29,12 @@ class MainFragment : BrowseSupportFragment(){
         mRowsAdapter = ArrayObjectAdapter(ListRowPresenter())
 
         if (result != null && result.isNotEmpty()) {
-            //println("setupMenuElements result size :  ${result.size}")
-            //println("result : $result")
             for(i in 0 until result.size){
                 val playlist = result[i]
                 val headerItem = HeaderItem(playlist.snippet.title)
                 headerItem.contentDescription = playlist.id
                 headerItem.description = playlist.snippet.description
                 mRowsAdapter.add(PageRow(headerItem))
-
-                /*
-                val playListRow = PlayListRow()
-                playListRow.mTitle = playlist.snippet.title
-                playListRow.mPlayLists = result
-                mRowsAdapter.add(createCardRow(playListRow))
-                */
             }
         }
 
