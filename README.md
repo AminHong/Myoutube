@@ -1,4 +1,4 @@
-# Myoutube - dev
+# Myoutube - hotfix
 使用 Android TV 觀看自己的 Youtube 清單影片
 leanback + Youtube API 串接 + kotlin
 
